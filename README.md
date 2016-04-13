@@ -4,13 +4,22 @@ This repository contains the source of the documents related to the Minecraft Fo
 
 ## Contributing
 
-You're probably here because you want to contribute to one of the documents on the Minecraft Forum, maybe there's a typo or you think an improvement could be made in the way a rule is communicated. All contributions are greatly appreciated, whether you're a visitor to the forum, an active member or a site administrator: every contribution is welcome.
+You're probably here because you want to contribute to one of the documents on the Minecraft Forum, maybe there's a typo or you think an improvement could be made in the way a rule is communicated. All contributions are greatly appreciated, whether you're a visitor to the forum, an active member or a site administrator: **every** contribution is welcome and will be discussed here.
 
 Questions? Open an issue, or send us an email via <support@minecraftforum.net>.
 
+## Documents
+
+- [Guidelines](guidelines/guidelines.md) talks about how members are expected to behave on the forum
+- [Rules](rules/rules.md) is a list of each forum rule and the associated action taken by forum staff
+- [FAQ](faq/faq.md) contains information on how to use the website
+- [Moderation](moderation/moderation.md) provides information on how the forum is moderated
+
+Any images to be referenced in the document should be added to the repository in the documents directory and referenced based on their file name.
+
 ## License
 
-The documents and images here are, unless otherwise stated, free for anyone to use for their website, forum, whatever, feel free to copy as-is or make any necessary adjustments.
+The documents and images here are unless otherwise stated free for anyone to use for their website, forum, whatever, in any form. This license applies to all contributions.
 
 ```
 The MIT License (MIT)
