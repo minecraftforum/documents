@@ -3,11 +3,13 @@ theme: document
 url: http://www.minecraftforum/about/faq
 ---
 
-# Minecraft Forum Frequently Asked Questions
+<h1>Frequently Asked Questions</h1>
 
 Here you'll find some of the most frequently asked questions about using the Minecraft Forum. Questions not covered in this document can be asked in the [Forum Discussion & Info](http://www.minecraftforum.net/forums/forums/forum-discussion-info) section, or via <support@minecraftforum.net>.
 
 {table_of_contents}
+
+---
 
 # My Account
 
