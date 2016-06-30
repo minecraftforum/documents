@@ -10,10 +10,9 @@ Questions? Open an issue, or send us an email via <support@minecraftforum.net>.
 
 ## Documents
 
-- [Guidelines](guidelines/guidelines.md) talks about how members are expected to behave on the forum
-- [Rules](rules/rules.md) is a list of each forum rule and the associated action taken by forum staff
+- [Rules](rules/rules.md) provides outline of behaviour expectations with a list of each forum rule and the associated action taken by forum staff
 - [FAQ](faq/faq.md) contains information on how to use the website
-- [Moderation](moderation/moderation.md) provides information on how the forum is moderated
+- [Moderation](moderation/moderation.md) provides information on how to moderate the forum
 
 Any images to be referenced in the document should be added to the repository in the documents directory and referenced based on their file name.
 
