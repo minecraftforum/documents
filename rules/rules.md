@@ -11,7 +11,7 @@ url: http://www.minecraftforum.net/about/rules
 
 <h1>Minecraft Forum Rules</h1>
 
-Above all else Minecraft Forum serves to provide a safe, secure and family friendly environment for Minecraft fans of all ages to share and enhance their love for Minecraft, through news, videos, downloadable content and discussion. A constructive, respectful and welcoming approach is required from all members at all times, in both public posts and private conversations. 
+Above all else Minecraft Forum serves to provide a safe, secure and family friendly environment for Minecraft fans of all ages to share and enhance their love for Minecraft, through news, videos, downloadable content and discussion. A constructive, respectful and welcoming approach is required from all members at all times, in both public posts and private conversations.
 
 The forum rules are a combination of behaviour guidelines and concrete rules, each forum rule includes an explanation of the rule and information on the action that should be taken by moderators. Moderators operate in line with our Moderator Guidelines and can make decisions independent of the rules listed here.
 
@@ -22,20 +22,26 @@ If you have any questions or concerns regarding the rules please [Contact Us](ht
 * __Be nice and polite__, every member deserves to be treated with respect. Positive and polite posts create a friendly and welcoming environment that all members will feel comfortable in.
 
 * __Think before posting__, sensible, well thought-out and legible posts help other members understand what is being communicated and encourage better discussion.
-  
+
 * __Post in relevant sections__, this will ensure that each thread is seen by members most interested in the subject.
 
 * __Remain on topic__, a new thread should be created for any significant deviation from the topic of the opening post.
-  
+
 * __Report rule violations__, to staff members for review, any content that needs moderator attention should be reported.
 
 * __Abide by developers terms of service__, Minecraft is available on a variety of platforms authored by a variety of developers, each platform and developer has their own Terms of Service and Minecraft Forum members are required to abide by these at all times. This includes the [Mojang EULA](https://account.mojang.com/documents/minecraft_eula), [Xbox Terms Of Use](http://www.xbox.com/en-GB/Legal/LiveTOU), Sony [PlayStation 4](http://www.scei.co.jp/ps4-eula/), [PlayStation 3](http://www.scei.co.jp/ps3-eula/) and [PlayStation Vita](http://www.scei.co.jp/psvita-eula/) Terms of Service, [iTunes Store Terms and Conditions](http://www.apple.com/legal/internet-services/itunes/us/terms.html) and the [Google Play Terms of Service](https://play.google.com/about/play-terms.html).
 
 * __Do not use profanity or post inappropriate content__, as a family friendly forum we require that all content is suitable for people of all ages, this includes words, videos and pictures. Any posts containing inappropriate content or profanity (including self censored, automatically censored, acronyms and slang) will be removed from the forum.
 
-* __Do not behave in a malicious or disruptive manner__, behaviour that can cause distress, harm or inconvenience to other members, staff or the forum itself is not allowed. This includes, but is not limited to, discrimination, bullying, offensive material, using multiple forum accounts, breaching others privacy and accessing others accounts without permission. 
+* __Do not behave in a malicious or disruptive manner__, behaviour that can cause distress, harm or inconvenience to other members, staff or the forum itself is not allowed. This includes, but is not limited to, discrimination, bullying, offensive material, using multiple forum accounts, breaching others privacy and accessing others accounts without permission.
 
 # Global Rules
+
+## Advertising
+
+Promoting something on the forum is advertising, advertising includes Minecraft related things, like YouTube videos, servers and development services, and includes non-Minecraft things, like Kickstarter projects, games and surveys. Advertising on the forum is only permitted if a relevant forum section exists for that advertising, for example advertising Minecraft Servers is permitted in the [Minecraft Servers](http://www.minecraftforum.net/forums/servers) section, and advertising YouTube videos is permitted in the [Show Your Creation](http://www.minecraftforum.net/forums/show-your-creation) section. Any advertising that does not fit into a section is not allowed unless an administrator has provided permission, please [Contact Us](http://www.minecraftforum.net/about/support) to obtain permission.
+
+> Moderators should move advertising to the correct section if there is a correct section, otherwise a warning for Advertising should be issued and the post should be deleted. Members who repeatedly advertise in the wrong section or advertise content that isn't permitted after warnings should be submitted for a Member Administrative Review.
 
 ## Bumping
 
