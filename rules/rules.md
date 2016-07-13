@@ -37,7 +37,7 @@ If you have any questions or concerns regarding the rules please [Contact Us](ht
 
 # Global Rules
 
-The Minecraft Forum Global Rules apply to every section of the website, unless stated otherwise in the rules of that section, for example a section may permit some forms of bumping, or a section may permit advertising.
+The Minecraft Forum Global Rules apply to each section of the website, including the Forum, Private Messages, Profile Comments, Article Comments and Server Comments. 
 
 ## Advertising
 
@@ -55,7 +55,7 @@ The most common form that bumping takes is a post containing just the word "bump
 
 # Section Rules
 
-The Minecraft Forum Section Rules apply only to the section they are associated with, they take precedent over the Global Rules in the section. 
+The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
 
 ## Minecraft Discussion
 
