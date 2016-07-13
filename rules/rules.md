@@ -37,6 +37,8 @@ If you have any questions or concerns regarding the rules please [Contact Us](ht
 
 # Global Rules
 
+The Minecraft Forum Global Rules apply to every section of the website, unless stated otherwise in the rules of that section, for example a section may permit some forms of bumping, or a section may permit advertising.
+
 ## Advertising
 
 Promoting something on the forum is advertising, advertising includes Minecraft related things, like YouTube videos, servers and development services, and includes non-Minecraft things, like Kickstarter projects, games and surveys. Advertising on the forum is only permitted if a relevant forum section exists for the content that is to be advertised, for example advertising Minecraft Servers is permitted in the [Minecraft Servers](http://www.minecraftforum.net/forums/servers) section, and advertising Minecraft based YouTube videos is permitted in the [Show Your Creation](http://www.minecraftforum.net/forums/show-your-creation) section. Any advertising that does not fit into a section is not allowed unless an administrator has provided permission, please [Contact Us](http://www.minecraftforum.net/about/support) to obtain permission.
@@ -52,6 +54,8 @@ The most common form that bumping takes is a post containing just the word "bump
 > Moderators should delete bumping posts and issue a Bumping warning. A Member Administrative Review should be created if a member has been warned multiple times for bumping or if they've bumped a single thread a substantial amount -- more than 20 posts.
 
 # Section Rules
+
+The Minecraft Forum Section Rules apply only to the section they are associated with, they take precedent over the Global Rules in the section. 
 
 ## Minecraft Discussion
 
