@@ -59,6 +59,14 @@ Any rude, insulting or upsetting behaviour towards another member is flaming, an
 
 > Moderators should delete any post that contains flaming or flame baiting and issue the appropriate warning. A Member Administrative Review should be created for any member who has been warned multiple times about flaming or flame baiting.
 
+## Stolen Content
+
+Any content shared on the forum must be shared with permission from the rights holder, either permission provided through compliance with the content's license or explicit permission provided via a Private Message or email, a copy of explicit permission must be included in the post.
+
+By complying with the author's rights to their work we show respect to those who have dedicated their time and energy to create the things we enjoy as well as satisfying applicable laws regarding creative works. This respect ensures that we will benefit from the efforts of creative individuals now and in the future.
+
+> Moderators should delete any post used to distribute content in whole by someone who does not have permission from the content creator and issue a Stolen Content warning. Moderators should issue a License Violation warning for any content that uses assets from an original work without permission, or if assets are used and distributed in violation of the original works license. A License Violation warning should be given with a 48 hour notice to bring the content in compliance, if the content is not brought into compliance within 48 hours the post should be deleted.
+
 # Section Rules
 
 The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
