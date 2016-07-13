@@ -53,6 +53,12 @@ The most common form that bumping takes is a post containing just the word "bump
 
 > Moderators should delete bumping posts and issue a Bumping warning. A Member Administrative Review should be created if a member has been warned multiple times for bumping or if they've bumped a single thread a substantial amount -- more than 20 posts.
 
+## Flaming
+
+Any rude, insulting or upsetting behaviour towards another member is flaming, and any disrespectful behaviour that can be seen to encourage rude, insulting or upsetting responses is flame baiting. Members must be polite and constructive when interacting with others on the forum, and when other members are flaming or flame baiting the report system must be used instead of engaging with similar responses.
+
+> Moderators should delete any post that contains flaming or flame baiting and issue the appropriate warning. A Member Administrative Review should be created for any member who has been warned multiple times about flaming or flame baiting.
+
 # Section Rules
 
 The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
