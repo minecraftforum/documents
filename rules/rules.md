@@ -61,7 +61,7 @@ Any rude, insulting or upsetting behaviour towards another member is flaming, an
 
 ## Stolen Content
 
-Any content shared on the forum must be shared with permission from the rights holder, either permission provided through compliance with the content's license or explicit permission provided via a Private Message or email, a copy of explicit permission must be included in the post.
+Any content distributed or modified on the forum must be used with permission from the rights holder, either permission provided through compliance with the content's license or explicit permission provided via a Private Message or email, a copy of explicit permission must be included in the post.
 
 By complying with the author's rights to their work we show respect to those who have dedicated their time and energy to create the things we enjoy as well as satisfying applicable laws regarding creative works. This respect ensures that we will benefit from the efforts of creative individuals now and in the future.
 
