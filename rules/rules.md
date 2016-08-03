@@ -67,6 +67,30 @@ By complying with the author's rights to their work we show respect to those who
 
 > Moderators should delete any post used to distribute content in whole by someone who does not have permission from the content creator and issue a Stolen Content warning. Moderators should issue a License Violation warning for any content that uses assets from an original work without permission, or if assets are used and distributed in violation of the original works license. A License Violation warning should be given with a 48 hour notice to bring the content in compliance, if the content is not brought into compliance within 48 hours the post should be deleted.
 
+## Mini-Modding
+
+Any posts implying that you are a member of the Minecraft Forum Staff while you are not would be considered mini-modding. Posts like "This thread will be locked", "You're breaking the bumping rule, reported", etc. are instances of mini-modding. While we appreciate the support, you need to report the post. 
+
+Replying to the post can confuse the member and can cause further inconvenience to our members. Moderators have the knowledge and the tools to ensure that member understand the rules. 
+
+If you're interested in applying for the moderator posting, you can read more about it [In the FAQ](http://www.minecraftforum.net/forums/forums/forum-discussion-info/517688-frequently-asked-questions).
+
+> Moderators should delete the mini-modding post and issue a Mini-Modding warning. If the member they were talking about did in fact violate the rules, deal with that member accordingly. 
+
+## Profanity
+
+Profanity is not allowed on the Minecraft Forum. Language that is considered inappropriate will be automatically censored. Just because it's censored does not mean you're allowed to use the word. There is no excuse to use profanity. Any posts containing profanity will be removed. That includes self censored (sh** or f**k), automatically censored (****), acronyms (wtf), and slang (bs).
+
+> Profanity posts should be instantly removed and a warning issued for Profanity. If you think it's profanity and you aren't sure or you're just confused in general, ask in staff-moderation! We're a team and we're here to help one another. If you aren't sure, be safe and just delete the post (It can always be undeleted later) and escalate the report.
+
+## Duplicate Threads
+
+## Trolling
+
+## Hate Speech
+
+## Necroposting 
+
 # Section Rules
 
 The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
@@ -103,12 +127,6 @@ Seeds must be for the Vanilla Minecraft game, and must be included in the openin
 
 > Moderators should delete any thread that does not meet these requirements.
 
-### Seeds
-
-Seeds must be for the Vanilla Minecraft game, and must be included in the opening post of the thread.
-
-> Moderators should delete any thread that does not meet these requirements.
-
 ## Servers
 
 ### Bumping
@@ -129,6 +147,12 @@ The Minecraft Server Hosting section is a restricted section which requires an a
 Members must create their own thread to request support for the issue they're experiencing, they must not post requests for support in another members thread, this is called "Hijacking". Multiple requests for support in a single thread create confusion between the people requesting support and the people providing support.
 
 > When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
+
+### Server Recruitment
+
+The Server Recruitment section is for server staff recruitment only. You cannot recruit for teams, advertise/recruit for services, posting videos/lets plays, etc. Member responses must not be "pm me" or "add me". Interested applicants must post on threads recruiting staff members NOT posting a new thread of their application and expecting server owners to find them.
+
+> If moderators see someone advertising their server (Or "recruiting players"), they issue a warning for "Wrong Section Servers" and <kbd>Move</kbd> the thread to the PC Servers section or the appropriate servers section. For advertising/recruit services, they issue the "Advertising" warning.
 
 ## Show Your Creation
 
