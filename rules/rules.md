@@ -67,6 +67,34 @@ By complying with the author's rights to their work we show respect to those who
 
 > Moderators should delete any post used to distribute content in whole by someone who does not have permission from the content creator and issue a Stolen Content warning. Moderators should issue a License Violation warning for any content that uses assets from an original work without permission, or if assets are used and distributed in violation of the original works license. A License Violation warning should be given with a 48 hour notice to bring the content in compliance, if the content is not brought into compliance within 48 hours the post should be deleted.
 
+## Duplicate Threads
+
+Posting duplicate threads is not allowed on the Minecraft Forum. Posting an identical copy, same idea, etc. would be considered a duplicate thread since you are posting multiple threads about the same idea. For example, posting 4 threads about your server would be considered duplicates even though they contain different content. 
+
+> Moderators should delete duplicate threads and issue a Duplicate Thread warning. However, sometimes when the spam filter is cleared, it appears that a member has posted duplicate threads when they really have not. A moderator will look into it and resolve the problem as quickly as they can.
+
+## Trolling
+
+Content that purposely baits members (Trolling) is not allowed on the Minecraft Forum. This includes instigating flame wars, misleading them with false content, or trying to upset someone to get an angry response from them. 
+
+Along with trolling comes Troll Calling. Members should be polite while using the forums. Calling someone a "Troll" is not only not relevant to the conversation but it also is rude towards the other member when they may not actually be trolling. If someone is trolling, you can instead report the post and move on.
+
+> Moderators should remove the instance of trolling immediately and issue the Trolling warning. For Troll Calling, a moderator should remove the instance and issue a Troll Calling warning and then they'll look into the situation to see if the offending member really was trolling.
+
+## Necroposting
+
+Necroposting happens when you post on a really old thread bringing it back to the front page. The front page is reserved for active discussions. If a thread isn't truly active, then it can mislead other members. 
+
+> Moderators should delete the offending post and then issue a Necroposting warning.
+
+## Hate Speech 
+
+Hate Speech occurs when you insult, discriminate, threaten, or offend someone based on their race, color, religion, sexual orientation, disability, or other traits. Members should be polite and kind to all members of the community regardless of their race, color, religion, sexual orientation, disability, etc.
+
+Hate Speech is not tolerated on the Minecraft Forum.
+
+> Moderators should delete the post and issue a Hate Speech warning. Any further instances of Hate Speech from the offending member would result in a permanent removal from the forum.
+
 # Section Rules
 
 The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
