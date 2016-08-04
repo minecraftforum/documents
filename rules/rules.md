@@ -170,7 +170,7 @@ If you receive a formal warning from a member of the moderation staff, there are
 
 Informal warnings add no points to your account. However, formal warnings add points to your account based on the warning you get. Every 30 days you loose a point. 
 
-If you accumulate too many warning points, you'll receive posting suspensions. You start receiving posting suspensions at 3 warning points and once you reach 10, you'll be banned from the site.
+If you accumulate too many warning points, you'll receive posting suspensions. You start receiving posting suspensions at 3 warning.
 
 ## Moderation Process
 
