@@ -161,3 +161,7 @@ A ban is a restriction on a members account. These restrictions can affect posti
 If a member repeatedly breaks the forum rules or behaves in a manner that raises concerns about their presence on the forum then a Member Administrative Review can be conducted. Any member of staff can create a Member Administrative Review on the Forum Moderation board following the guidelines outlined in the [Member Administrative Review](https://trello.com/c/4c3Dy6jJ/1867-member-administrative-review) card. 
 
 There are no criteria for when a member should have an Member Administrative Review, it is up to each individual staff member to decide if they think one is neccessary. Usually when a member reaches 4 or more warnings in a short period of time a MAR will be created.
+
+## Accidental Warnings
+
+If you issue a warning by mistake, don't freak out, it's not the end of the world. What you want to do is immediately create a card on the Forum Moderation board under the To Do list. Then, since the member still received the pop up and the message, you'll need to let them know what happened.
