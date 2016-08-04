@@ -172,3 +172,7 @@ To check if content is malicious you can:
 3) Download the file and upload it to virustotal.com without opening it. 
 
 If you don't know how to properly and efficiently test something for malware, ask! We work as a team and together, we can determine if something is malicious or not.
+
+## Accidental Warnings
+
+If you issue a warning by mistake, don't freak out, it's not the end of the world. What you want to do is immediately create a card on the Forum Moderation board under the To Do list. Then, since the member still received the pop up and the message, you'll need to let them know what happened.
