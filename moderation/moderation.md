@@ -161,3 +161,14 @@ A ban is a restriction on a members account. These restrictions can affect posti
 If a member repeatedly breaks the forum rules or behaves in a manner that raises concerns about their presence on the forum then a Member Administrative Review can be conducted. Any member of staff can create a Member Administrative Review on the Forum Moderation board following the guidelines outlined in the [Member Administrative Review](https://trello.com/c/4c3Dy6jJ/1867-member-administrative-review) card. 
 
 There are no criteria for when a member should have an Member Administrative Review, it is up to each individual staff member to decide if they think one is neccessary. Usually when a member reaches 4 or more warnings in a short period of time a MAR will be created.
+
+# Malicious Material
+
+If you know something on the fourms is malicious, you need to issue the Malicious Material warning. From there, you need to remove the post(s)/thread(s) containing the malicious material. Then, you need to create a Member Administrative Review card explaining why you issued the warning, links to virus scans, the member, etc. We want to make sure that the member is properly banned and the material checked before we ban someone. 
+
+To check if content is malicious you can:
+1) Ask in staff-moderation for another moderator to help you. 
+2) Use virustotal.com to scan the URL (If applicable)
+3) Download the file and upload it to virustotal.com without opening it. 
+
+If you don't know how to properly and efficiently test something for malware, ask! We work as a team and together, we can determine if something is malicious or not.
