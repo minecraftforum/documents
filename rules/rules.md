@@ -161,3 +161,23 @@ The videos section is for members to share their videos, and others to find indi
 Art Shop owners aren't permitted to post reviews of other shops or comments about the quality of the shop because this can create a hostile environment and cause arguments amongst members.
 
 > Moderators should remove reviews posted by other Art Shop owners, if the review is inflammatory then a warning for Flame Baiting should be issued, otherwise a warning for Spamming should be issued.
+
+# Moderation Process
+
+## Warnings and Bans
+
+If you receive a formal warning from a member of the moderation staff, there are 3 possible outcomes. An Informal Warning, Formal Warning, and a Ban. To receive a ban, you need to accumulate a certain amount of warning points.
+
+Informal warnings add no points to your account. However, formal warnings add points to your account based on the warning you get. Every 30 days you loose a point. 
+
+If you accumulate too many warning points, you'll receive posting suspensions. You start receiving posting suspensions at 3 warning.
+
+## Moderation Process
+
+Our forums are moderated by our team of moderators and administrators. There are different stages we go through from detection to execution. 
+
+We start off with identification. Moderators identify rule violations through browsing the forums and through reports (Reports being our primary method). Upon receiving a report, we read through the report and open up the thread. Once we identify the rule violation, we determine what needs to be done. 
+
+The moderators then remove the post (Or edit it/lock it as needed). From there, a warning is issued to you by a moderator and they can choose to either issue a formal or informal warning depending on the situation, previous warnings, and what rule was violated. Then, a message is sent to you requiring you to read the rules and then you can view the message and appeal it as necessary. 
+
+For more information, you can read our [moderation guidelines](). To learn more about our forum, you can read our [Frequently Asked Questions (FAQ)]().
