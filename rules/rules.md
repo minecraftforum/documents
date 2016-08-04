@@ -37,7 +37,7 @@ If you have any questions or concerns regarding the rules please [Contact Us](ht
 
 # Global Rules
 
-The Minecraft Forum Global Rules apply to each section of the website, including the Forum, Private Messages, Profile Comments, Article Comments and Server Comments. 
+The Minecraft Forum Global Rules apply to each section of the website, including the Forum, Private Messages, Profile Comments, Article Comments and Server Comments.
 
 ## Advertising
 
@@ -69,13 +69,13 @@ By complying with the author's rights to their work we show respect to those who
 
 ## Duplicate Threads
 
-Posting duplicate threads is not allowed on the Minecraft Forum. Posting an identical copy, same idea, etc. would be considered a duplicate thread since you are posting multiple threads about the same idea. For example, posting 4 threads about your server would be considered duplicates even though they contain different content. 
+Posting duplicate threads is not allowed on the Minecraft Forum. Posting an identical copy, same idea, etc. would be considered a duplicate thread since you are posting multiple threads about the same idea. For example, posting 4 threads about your server would be considered duplicates even though they contain different content.
 
 > Moderators should delete duplicate threads and issue a Duplicate Thread warning. However, sometimes when the spam filter is cleared, it appears that a member has posted duplicate threads when they really have not. A moderator will look into it and resolve the problem as quickly as they can.
 
 ## Trolling
 
-Content that purposely baits members (Trolling) is not allowed on the Minecraft Forum. This includes instigating flame wars, misleading them with false content, or trying to upset someone to get an angry response from them. 
+Content that purposely baits members (Trolling) is not allowed on the Minecraft Forum. This includes instigating flame wars, misleading them with false content, or trying to upset someone to get an angry response from them.
 
 Along with trolling comes Troll Calling. Members should be polite while using the forums. Calling someone a "Troll" is not only not relevant to the conversation but it also is rude towards the other member when they may not actually be trolling. If someone is trolling, you can instead report the post and move on.
 
@@ -83,17 +83,33 @@ Along with trolling comes Troll Calling. Members should be polite while using th
 
 ## Necroposting
 
-Necroposting happens when you post on a really old thread bringing it back to the front page. The front page is reserved for active discussions. If a thread isn't truly active, then it can mislead other members. 
+Necroposting happens when you post on a really old thread bringing it back to the front page. The front page is reserved for active discussions. If a thread isn't truly active, then it can mislead other members.
 
 > Moderators should delete the offending post and then issue a Necroposting warning.
 
-## Hate Speech 
+## Hate Speech
 
 Hate Speech occurs when you insult, discriminate, threaten, or offend someone based on their race, color, religion, sexual orientation, disability, or other traits. Members should be polite and kind to all members of the community regardless of their race, color, religion, sexual orientation, disability, etc.
 
 Hate Speech is not tolerated on the Minecraft Forum.
 
 > Moderators should delete the post and issue a Hate Speech warning. Any further instances of Hate Speech from the offending member would result in a permanent removal from the forum.
+
+## Mini-Modding
+
+Any posts implying that you are a member of the Minecraft Forum Staff while you are not would be considered mini-modding. Posts like "This thread will be locked", "You're breaking the bumping rule, reported", etc. are instances of mini-modding. While we appreciate the support, you need to report the post.
+
+Replying to the post can confuse the member and can cause further inconvenience to our members. Moderators have the knowledge and the tools to ensure that member understand the rules.
+
+If you're interested in applying for the moderator posting, you can read more about it [In the FAQ](http://www.minecraftforum.net/forums/forums/forum-discussion-info/517688-frequently-asked-questions).
+
+> Moderators should delete the mini-modding post and issue a Mini-Modding warning. If the member they were talking about did in fact violate the rules, deal with that member accordingly.
+
+## Profanity
+
+Profanity is not allowed on the Minecraft Forum. Language that is considered inappropriate will be automatically censored. Just because it's censored does not mean you're allowed to use the word. There is no excuse to use profanity. Any posts containing profanity will be removed. That includes self censored (sh** or f**k), automatically censored (****), acronyms (wtf), and slang (bs).
+
+> Profanity posts should be instantly removed and a warning issued for Profanity. If you think it's profanity and you aren't sure or you're just confused in general, ask in staff-moderation! We're a team and we're here to help one another. If you aren't sure, be safe and just delete the post (It can always be undeleted later) and escalate the report.
 
 # Section Rules
 
@@ -131,12 +147,6 @@ Seeds must be for the Vanilla Minecraft game, and must be included in the openin
 
 > Moderators should delete any thread that does not meet these requirements.
 
-### Seeds
-
-Seeds must be for the Vanilla Minecraft game, and must be included in the opening post of the thread.
-
-> Moderators should delete any thread that does not meet these requirements.
-
 ## Servers
 
 ### Bumping
@@ -157,6 +167,12 @@ The Minecraft Server Hosting section is a restricted section which requires an a
 Members must create their own thread to request support for the issue they're experiencing, they must not post requests for support in another members thread, this is called "Hijacking". Multiple requests for support in a single thread create confusion between the people requesting support and the people providing support.
 
 > When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
+
+### Server Recruitment
+
+The Server Recruitment section is for server staff recruitment only. You cannot recruit for teams, advertise/recruit for services, posting videos/lets plays, etc. Member responses must not be "pm me" or "add me". Interested applicants must post on threads recruiting staff members NOT posting a new thread of their application and expecting server owners to find them.
+
+> If moderators see someone advertising their server (Or "recruiting players"), they issue a warning for "Wrong Section Servers" and <kbd>Move</kbd> the thread to the PC Servers section or the appropriate servers section. For advertising/recruit services, they issue the "Advertising" warning.
 
 ## Show Your Creation
 
@@ -196,16 +212,16 @@ Art Shop owners aren't permitted to post reviews of other shops or comments abou
 
 If you receive a formal warning from a member of the moderation staff, there are 3 possible outcomes. An Informal Warning, Formal Warning, and a Ban. To receive a ban, you need to accumulate a certain amount of warning points.
 
-Informal warnings add no points to your account. However, formal warnings add points to your account based on the warning you get. Every 30 days you loose a point. 
+Informal warnings add no points to your account. However, formal warnings add points to your account based on the warning you get. Every 30 days you loose a point.
 
 If you accumulate too many warning points, you'll receive posting suspensions. You start receiving posting suspensions at 3 warning.
 
 ## Moderation Process
 
-Our forums are moderated by our team of moderators and administrators. There are different stages we go through from detection to execution. 
+Our forums are moderated by our team of moderators and administrators. There are different stages we go through from detection to execution.
 
-We start off with identification. Moderators identify rule violations through browsing the forums and through reports (Reports being our primary method). Upon receiving a report, we read through the report and open up the thread. Once we identify the rule violation, we determine what needs to be done. 
+We start off with identification. Moderators identify rule violations through browsing the forums and through reports (Reports being our primary method). Upon receiving a report, we read through the report and open up the thread. Once we identify the rule violation, we determine what needs to be done.
 
-The moderators then remove the post (Or edit it/lock it as needed). From there, a warning is issued to you by a moderator and they can choose to either issue a formal or informal warning depending on the situation, previous warnings, and what rule was violated. Then, a message is sent to you requiring you to read the rules and then you can view the message and appeal it as necessary. 
+The moderators then remove the post (Or edit it/lock it as needed). From there, a warning is issued to you by a moderator and they can choose to either issue a formal or informal warning depending on the situation, previous warnings, and what rule was violated. Then, a message is sent to you requiring you to read the rules and then you can view the message and appeal it as necessary.
 
 For more information, you can read our [moderation guidelines](). To learn more about our forum, you can read our [Frequently Asked Questions (FAQ)]().
