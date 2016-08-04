@@ -71,3 +71,21 @@ If you see a member breaking forum rules, you can use the [report button at the 
 
 ## How/Where can I receive support?
 You can request and receive support from [this page](http://www.minecraftforum.net/meta/support).
+
+## I need help with my Minecraft/Mojang account! Help me?
+Unfortunately, there's not much we can do for you there! You'll have to contact the [Mojang Support Team](https://help.mojang.com/customer/portal/emails/new?ref=footer). 
+
+## Minecraft isn't working properly, can you help?
+We sure can! You can post a thread in the [Support Forum](http://www.minecraftforum.net/forums/support) and someone will be able to help you with your problem. Make sure you're as detailed as you can though.
+
+## How can I support the forums?
+Just being here is supporting us! However, if you'd like to support us even more, you can get [Curse Premium](https://mods.curse.com/premium/legacy) which gives you a fancy title, removes ads, and gives you so much more!. 
+
+## I saw an autoplay ad and it's very annoying. Is there anything I can do about that?
+Auto playing advertisments are actually against Curse's advertising policy! However, sometimes they slip in. If you can, get as much information as you can (Screenshots, location of ad, type of ad, etc.) you can send an email to <support@minecraftforum.net> and it will be removed as soon as possible.
+
+## What's the fancy thing under my avatar?
+The text under your title is your member title! You unlock more member titles the more you post. You can read the list of member titles [here](http://www.minecraftforum.net/forums/forums/forum-discussion-info/517685-current-member-title-list).
+
+## Who are the forum staff members?
+The forum staff members are a group of volunteers who dedicate their time to ensure the forum is safe and family friendly. You can see who is a part of the staff by looking at the [staff list](http://www.minecraftforum.net/forums/forums/forum-discussion-info/517684-staff-list).
