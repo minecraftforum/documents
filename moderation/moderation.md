@@ -162,7 +162,7 @@ If a member repeatedly breaks the forum rules or behaves in a manner that raises
 
 There are no criteria for when a member should have an Member Administrative Review, it is up to each individual staff member to decide if they think one is neccessary. Usually when a member reaches 4 or more warnings in a short period of time a MAR will be created.
 
-# Malicious Material
+## Malicious Material
 
 If you know something on the fourms is malicious, you need to issue the Malicious Material warning. From there, you need to remove the post(s)/thread(s) containing the malicious material. Then, you need to create a Member Administrative Review card explaining why you issued the warning, links to virus scans, the member, etc. We want to make sure that the member is properly banned and the material checked before we ban someone. 
 
@@ -176,3 +176,28 @@ If you don't know how to properly and efficiently test something for malware, as
 ## Accidental Warnings
 
 If you issue a warning by mistake, don't freak out, it's not the end of the world. What you want to do is immediately create a card on the Forum Moderation board under the To Do list. Then, since the member still received the pop up and the message, you'll need to let them know what happened.
+
+## Alternate Account Policy
+
+Recently, our alternate account policy has changed. Permanent bans are no longer issued issued to alternate accounts. Instead, you now issue the alternate account warning to all the accounts. The warnings need to have the appropriate comments so we can reference it in the future if we need to. The alternate accounts should have the main account in the comments and the alternate accounts should have the main account in the comments.
+
+If a member is repeatedly using alternate accounts to violate rules, create a Member Administrative Review.
+
+# Acount Security
+Being a moderator gives you permissions above a normal member. Using those permissions requires great responsibility and account security is one of them. If someone gets access to your account, they can use those permissions. So, you need to make sure your password is secure:
+
+* Never share your password with anyone (Even friends and family) - They can accidentally give your account out or even use your account
+* Use a unique password for the Minecraft Forum - Your password needs to be unique! No one should be able to guess your password if they hack another platform and find your password.
+* Use 2-Factor Authentification - Use it as often as you can. It's an additional security measure and if you're required to use it on the Minecraft Forum, why not use it on other services that offer it. 
+* Do not use real information on security questions - This can be found on your social media accounts and can then be guessed
+* Make sure you're logging into the correct website - Check the domain! Some websites copy others in an attempt to get your password for the right site. If you're logging into the Minecraft Forum, the domain should be https://www.minecraftforum.net you should see the green lock. 
+
+## Password Management
+
+Your password needs to be unique! Using the same password isn't a safe method. If you'd like, you can [generate a safe password here](http://correcthorsebatterystaple.net/). If you have a ton of accounts, you can even use a _Password Manager_. Password managers are databases that store your passwords. They can be local (Stored on your computer) or Cloud based (Stored on a database and can be accessed anywhere). A password manager is recommended. 
+
+Whenever possible, you should try to protect your account with 2-Factor Authentification. In addition to having a secure password, you'll have a special code on your phone that you need to log in. 
+
+## What do I do if my account was hacked?
+
+You need to make sure you contact the administrators immediately! They'd be able to help you by removing your permissions and give you advice. From there, you should change your email, password, and make sure you have 2-factor authentification. If you don't have it enabled, enable it! It may seem pointless but it really does secure your account more than you think.
