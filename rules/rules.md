@@ -111,6 +111,78 @@ Profanity is not allowed on the Minecraft Forum. Language that is considered ina
 
 > Profanity posts should be instantly removed and a warning issued for Profanity. If you think it's profanity and you aren't sure or you're just confused in general, ask in staff-moderation! We're a team and we're here to help one another. If you aren't sure, be safe and just delete the post (It can always be undeleted later) and escalate the report.
 
+## Affiliate/Referral Links
+
+You may not use the Minecraft Forum to generate income for you using affiliate links or referral links. This includes services that produce revenue for you and links that give you discounts for services. 
+
+> Moderators should remove the link or code and issue a warning for Affiliate/Referral Links. 
+
+## Monetary Link Abuse
+
+The uses of monetary linking services (eg: AdFly) is only permited when you are distributing content that you created and when the content abides by the Terms of Service of the linking service. Do not use monetary links for advertising other member's content.
+
+> Moderators should remove the link and issue a Monetary Link Abuse.
+
+## Blacklist
+
+Lists that blacklist a person or a server are not allowed on the forums. These lists have been used to hurt innocent people in the past. Blacklists include but are not limited to "Ban this player immediately" and "Don't just this server it's terrible".
+
+> Moderators should delete the post or thread and issue a warning for Blacklist.
+
+## Spamming
+
+A spam post is a post that provides no value to the discussion, or a thread that creates nuisance for others. The most common spam posts are posting "tl:dr;", "+1", "this", posting image macros, and nothing but memes or images. Threads are considered spam when they are duplicates, or devoid of valuable content. Replying to spam is not permitted either
+
+> Moderators should remove the spam and issue a warning for spamming
+
+### Bot Spam
+
+Bots that automatically spam services/websites are not allowed on the forums. 
+
+> Moderators first need to identify the bot spam. Note: There is a difference between spam and bot spam. Bot spam is from a service where as normal spam is obvious that a member posted it. Then, the moderator should mark the content as spam. It's important not to mark normal spam as spam because if you do, the spam filter will filter content like that out. Only mark bot spam as spam. From there, issue a bot spam warning.Affiliate
+
+### Giftcode Spam 
+
+Spamming giftcodes on the forums is not allowed. Websites that require users to post a certain phrase, post on multiple pages, or sign up exist ohly to phish, generate money, surveys, infect computers with malware, etc. 
+
+> Moderators should delete the post and issue a Giftcode Spam warning.
+
+### Member/Image Posting
+
+Posts that contain only image macros or memers are spam. 
+
+> Moderators should delete the post and issue a Member/Image Posting warning.
+
+## Double Posting 
+
+Posting on a thread after already posting is double posting. Instead, use the edit post button.
+
+> Moderators should merge the posts and issue a Double Posting warning.
+
+## Hoax
+
+Don't post hoaxes on the fourm. Hoaxes such as Herobrine sightings or Minecraft 2.0 spread false information and just confuse other members.
+
+> Moderators should delete the hoax and issue a Hoax warning.
+
+## Off-Topic
+
+Stay on topic when posting on the forums. Going off topic is not allowed
+
+> Moderators should remove the post(s) that are off topic and issue an Off-Topic warning to the violating member(s).
+
+## Piracy 
+
+Supporting piracy or requesting pirated content as well as posting pirated content is not allowed on the forums. 
+
+> If someone is supporting, requesting, promote, or ask for help for pirated content, the moderator should delete the instance and issue a Piracy Support/Request/Promotion warning. If the member posted the pirated content, they should delete the instance and issue a Pirated Content warning. If they have already receive the warning, issue it again and post a Member Administrative Review under the Trello Forum Moderation board.
+
+## Sharing the Minecraft.jar
+
+Sharing Minecraft files is against the Minecraft Terms of Use, regardless of the reason for sharing. Therefor, it's against the Minecraft Forum rules.
+
+> The moderator should delete the post and issue a Sharing Minecraft.jar warning.
+
 # Section Rules
 
 The Minecraft Forum Section Rules apply to the specified section in addition to the Global Rules, where there are conflicts the Section Rules take priority over the Global Rules, meaning a section can allow (or disallow) something that is allowed (or disallowed) elsewhere on the forum.
@@ -147,6 +219,22 @@ Seeds must be for the Vanilla Minecraft game, and must be included in the openin
 
 > Moderators should delete any thread that does not meet these requirements.
 
+## Mapping and Modding
+
+### Update Spam
+
+Do not ask creators of Minecraft Mods and Minecraft Resource Packs to update their content and do not ask for information on when an update may be released. These posts provide no value in the threads and they inconvenience the creators. If a content creator has information on an update they will post that information in their thread.
+
+> Moderators should delete the post and issue an Update Spam warning.
+
+## Other Platforms
+
+### Console Modification
+
+Modifications to the console editions of Minecraft or any other game are against Microsoft's TOS and Sony's TOS. Therefor, modifying consoles is not allowed on the Minecraft Forum. This includes discussing, linking, sharing, or distributing. 
+
+> Moderators should remove the violating thread and issue a Modification (Console) warning. 
+
 ## Servers
 
 ### Bumping
@@ -162,17 +250,31 @@ The Minecraft Server Hosting section is a restricted section which requires an a
 
 > Moderators **must not** move threads to the Minecraft Server Hosting section, any thread advertising a Minecraft Server Host made elsewhere on the forum must be deleted and an Advertising warning should be issued.
 
-### Hijacking
-
-Members must create their own thread to request support for the issue they're experiencing, they must not post requests for support in another members thread, this is called "Hijacking". Multiple requests for support in a single thread create confusion between the people requesting support and the people providing support.
-
-> When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
-
 ### Server Recruitment
 
 The Server Recruitment section is for server staff recruitment only. You cannot recruit for teams, advertise/recruit for services, posting videos/lets plays, etc. Member responses must not be "pm me" or "add me". Interested applicants must post on threads recruiting staff members NOT posting a new thread of their application and expecting server owners to find them.
 
 > If moderators see someone advertising their server (Or "recruiting players"), they issue a warning for "Wrong Section Servers" and <kbd>Move</kbd> the thread to the PC Servers section or the appropriate servers section. For advertising/recruit services, they issue the "Advertising" warning.
+
+### Cracked/Offline Server Advertisement
+
+Cracked or Offline Servers are not allowed to be posted on the Minecraft Forum at all. Servers that advertise as such are not allowed. They aren't allowed to be advertised in threads, posts, signatures, private messages, etc. 
+
+> If moderators see the server advertised in threads or posts, they should delete it and issue a warning for Cracked/Offline Server Advertisement. If they see it in signatures or private messages, they should post a card on Trello in the Forum Moderation board for an admin to process.
+
+### Server Drama
+
+Members should not participate or start in server drama. The forums are not the place for arguments or disputes.
+
+> The moderator should remove the drama and issue the Server Drama warning to the violating member(s)
+
+## Support
+
+### Hijacking
+
+Members must create their own thread to request support for the issue they're experiencing, they must not post requests for support in another members thread, this is called "Hijacking". Multiple requests for support in a single thread create confusion between the people requesting support and the people providing support.
+
+> When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
 
 ## Show Your Creation
 
