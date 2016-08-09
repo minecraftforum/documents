@@ -103,7 +103,7 @@ Replying to the post can confuse the member and can cause further inconvenience 
 
 If you're interested in applying for the moderator posting, you can read more about it [In the FAQ](http://www.minecraftforum.net/forums/forums/forum-discussion-info/517688-frequently-asked-questions).
 
-> Moderators should delete the mini-modding post and issue a Mini-Modding warning. If the member they were talking about did in fact violate the rules, deal with that member accordingly.
+> Moderators should delete the mini-modding post and issue a Mini-Modding warning. If the member they were talking about did in fact violate the rules, deal with that member accordingly. If the member reported the thread, and mini-modded as well, issue the warning as informal. 
 
 ## Profanity
 
