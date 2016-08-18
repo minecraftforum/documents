@@ -125,7 +125,7 @@ The uses of monetary linking services (eg: AdFly) is only permited when you are 
 
 ## Blacklist
 
-Lists that blacklist a person or a server are not allowed on the forums. These lists have been used to hurt innocent people in the past. Blacklists include but are not limited to "Ban this player immediately" and "Don't just this server it's terrible".
+List that says a person should be banned from every server. Can also be a list of servers to not play on. These lists have been used to hurt innocent people in the past. Blacklists include but are not limited to "Ban this player immediately" and "Don't play on this server it's terrible".
 
 > Moderators should delete the post or thread and issue a warning for Blacklist.
 
@@ -167,7 +167,7 @@ Don't post hoaxes on the fourm. Hoaxes such as Herobrine sightings or Minecraft 
 
 ## Off-Topic
 
-Stay on topic when posting on the forums. Going off topic is not allowed
+Stay on topic when posting on the forums. Going off topic is not allowed.
 
 > Moderators should remove the post(s) that are off topic and issue an Off-Topic warning to the violating member(s).
 
@@ -175,11 +175,11 @@ Stay on topic when posting on the forums. Going off topic is not allowed
 
 Supporting piracy or requesting pirated content as well as posting pirated content is not allowed on the forums. 
 
-> If someone is supporting, requesting, promote, or ask for help for pirated content, the moderator should delete the instance and issue a Piracy Support/Request/Promotion warning. If the member posted the pirated content, they should delete the instance and issue a Pirated Content warning. If they have already receive the warning, issue it again and post a Member Administrative Review under the Trello Forum Moderation board.
+> If someone is supporting, requesting, promote, or ask for help for pirated content, the moderator should delete the instance and issue a Piracy Support/Request/Promotion warning. If the member posted the pirated content, they should delete the instance and issue a Pirated Content warning. If they have already received the warning, issue it again and post a Member Administrative Review under the Trello Forum Moderation board.
 
 ## Sharing the Minecraft.jar
 
-Sharing Minecraft files is against the Minecraft Terms of Use, regardless of the reason for sharing. Therefor, it's against the Minecraft Forum rules.
+Sharing Minecraft files is against the Minecraft Terms of Use, regardless of the reason for sharing. Therefore, it's against the Minecraft Forum rules.
 
 > The moderator should delete the post and issue a Sharing Minecraft.jar warning.
 
