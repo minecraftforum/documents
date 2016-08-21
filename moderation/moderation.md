@@ -78,6 +78,10 @@ These options should always be enabled because effective moderation depends on h
 
 Members report items (such as posts, members, comments, servers) by selecting from a list of pre-defined reasons and providing any relevant information in the report description. Each pre-defined reason has a description to explain to the member when that report reason is appropriate to use.
 
+### "Delete ALL posts"
+
+When you see a report asking for you to delete all their posts, you can decline the report. Then, you can Private Message them and let them know that they need to [submit a ticket](http://www.minecraftforum.net/meta/support). 
+
 ### Statuses
 
 Reports enter the system with the **new** status and from there moderators change the status as the report is acted on.
