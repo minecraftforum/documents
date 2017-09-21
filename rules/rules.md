@@ -29,7 +29,7 @@ If you have any questions or concerns regarding the rules please [Contact Us](ht
 
 * __Report rule violations__, to staff members for review, any content that needs moderator attention should be reported.
 
-* __Abide by developers terms of service__, Minecraft is available on a variety of platforms authored by a variety of developers, each platform and developer has their own Terms of Service and Minecraft Forum members are required to abide by these at all times. This includes the [Mojang EULA](https://account.mojang.com/documents/minecraft_eula), [Xbox Terms Of Use](http://www.xbox.com/en-GB/Legal/LiveTOU), Sony [PlayStation 4](http://www.scei.co.jp/ps4-eula/), [PlayStation 3](http://www.scei.co.jp/ps3-eula/) and [PlayStation Vita](http://www.scei.co.jp/psvita-eula/) Terms of Service, [iTunes Store Terms and Conditions](http://www.apple.com/legal/internet-services/itunes/us/terms.html) and the [Google Play Terms of Service](https://play.google.com/about/play-terms.html).
+* __Abide by developers terms of service__, Minecraft is available on a variety of platforms authored by a variety of developers, each platform and developer has their own Terms of Service and Minecraft Forum members are required to abide by these at all times. This includes the [Mojang EULA](https://account.mojang.com/documents/minecraft_eula), [Xbox Terms Of Use](http://www.xbox.com/en-GB/Legal/LiveTOU), Sony [PlayStation 4](http://www.scei.co.jp/ps4-eula/), [PlayStation 3](http://www.scei.co.jp/ps3-eula/) and [PlayStation Vita](http://www.scei.co.jp/psvita-eula/), [Wii U and Switch](http://www.nintendo.com/consumer/info/en_na/docs.jsp) Terms of Service, [iTunes Store Terms and Conditions](http://www.apple.com/legal/internet-services/itunes/us/terms.html) and the [Google Play Terms of Service](https://play.google.com/about/play-terms.html).
 
 * __Do not use profanity or post inappropriate content__, as a family friendly forum we require that all content is suitable for people of all ages, this includes words, videos and pictures. Any posts containing inappropriate content or profanity (including self censored, automatically censored, acronyms and slang) will be removed from the forum.
 
@@ -227,11 +227,11 @@ Do not ask creators of Minecraft Mods and Minecraft Resource Packs to update the
 
 > Moderators should delete the post and issue an Update Spam warning.
 
-## Other Platforms
+## Console Editions
 
 ### Console Modification
 
-Modifications to the console editions of Minecraft or any other game are against Microsoft's TOS and Sony's TOS. Therefor, modifying consoles is not allowed on the Minecraft Forum. This includes discussing, linking, sharing, or distributing. 
+Modifications to the console editions of Minecraft or any other game are against Microsoft's TOS and Sony's TOS. Therefor, modifying consoles hardware and software is not allowed on the Minecraft Forum. This includes discussing, linking, sharing, or distributing. 
 
 > Moderators should remove the violating thread and issue a Modification (Console) warning. 
 
